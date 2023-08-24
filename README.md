@@ -16,4 +16,7 @@
 <h1>:computer:Versão Desktop:</h1>
 <br>
 <img src="https://github.com/FelipeNzp/Projeto-easy-shop/blob/master/assets/Desktop.png?raw=true" />
-
+<br>
+<h1>:globe_with_meridians:Website</h1>
+<br>
+https://felipenzp.github.io/Projeto-easy-shop/
